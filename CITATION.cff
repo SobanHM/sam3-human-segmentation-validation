@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+title: "SAM3 vs Human Segmentation Validation"
+authors:
+  - family-names: Hussain
+    given-names: Soban
+version: 1.0.0
+date-released: 2025-01-01
+url: url: https://github.com/SobanHM/sam3-human-segmentation-validation
+keywords:
+  - Computer Vision
+  - Image Segmentation
+  - Human-in-the-Loop
+  - SAM3
+  - Deep Learning
+  - AI Validation
+license: MIT
