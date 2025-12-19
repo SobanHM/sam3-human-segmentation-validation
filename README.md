@@ -4,6 +4,8 @@
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Segmentation-red)
 ![Human in the Loop](https://img.shields.io/badge/Human--in--the--Loop-AI%20Validation-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Research](https://img.shields.io/badge/Research-Computer%20Vision-purple)
+![SAM3](https://img.shields.io/badge/Model-SAM3-informational)
 
 
 This repository presents a **human-in-the-loop segmentation validation system** that quantitatively compares **SAM3 (Segment Anything v3)** automatic segmentation results with **human-annotated ground truth masks**.
