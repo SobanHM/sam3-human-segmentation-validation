@@ -1,0 +1,8 @@
+python>=3.8
+torch
+numpy
+opencv-python
+gradio
+Pillow
+transformers
+scikit-learn
