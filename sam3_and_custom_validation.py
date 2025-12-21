@@ -183,11 +183,12 @@ with gr.Blocks(title="SAM 3 Validation Studio") as demo:
             </p>
 
             <p style="margin: 5px 0 0 0; font-size: 12px; color: #a0aec0; letter-spacing: 1px;">
-                POWERED BY SAM 3 • COMPUTER VISION
+                POWERED BY SAM 3 • COMPUTER VISION (Segmentation Task)
             </p>
         </div>
         """
     )
 # running ui
 if __name__ == "__main__":
+
     demo.launch()
